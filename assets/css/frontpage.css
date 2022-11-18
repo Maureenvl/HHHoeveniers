@@ -1,7 +1,7 @@
 /* HIER BEGINT DE BANNER     */
 .flex-container {
   display: flex;
-  background-color: #a6d3a0b4;
+  background-color: #a6d3a0;
   align-items: center;
   color: aliceblue;
 }
@@ -14,54 +14,61 @@
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .flex-container img {
-  width: 300px;
-  height: 70px;
-  margin-left: -20px;
+  width: 250px;
+  height: 65px;
+  margin-left: 20px;
   margin-top: -20px;
 }
 /* HIER EINDIGT DE BANNER */
 /* BALKJE ONDER DE BANNER */
 #balkje {
-  background-color: #c3fcc194;
+  background-color: #c3fcc1;
   width: 100%;
   height: 20px;
 }
 /* BALKJE EIND */
+
 /* MAIN BEGIN */
 #main {
-  background-color: #96616bcd;
+  background-color: #bbc7a4;
   width: 100%;
   height: 500px;
-  margin-top: 10px;
   display: flex;
   justify-content: space-around;
   align-items: center;
 }
+
 .inhoud {
   width: 200px;
   height: 300px;
-  background-color: rgba(255, 0, 0, 0);
+  background-color: rgba(197, 39, 39, 0);
 }
 .inhoud img {
-  width: 200px;
+  width: 400px;
   height: 300px;
   border: #a6d3a0b4;
   border-radius: 10px;
+
 }
 /* MAIN EIND */
 
 /* BEGIN FOOT3R */
 #footer {
   width: 100%px;
-  height: 300px;
+  height: 130px;
   background-color: #a6d3a0b4;
 }
-
+.footerbalkje{
+  width: 100%;
+  height: 30px;
+  background-color: #c3fcc194;
+  
+}
 .footerlogo img {
   width: 200px;
   height: 60px;
-  margin-top: 10px;
-  margin-left: 10px;
+  margin-top: 20px;
+  margin-left: 20px;
 }
 /* EIND FOOT3R */
 
