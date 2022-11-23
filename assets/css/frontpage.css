@@ -3,6 +3,13 @@
   padding: 0;
 }
 
+
+
+
+
+
+
+
 /* HIER BEGINT DE BANNER     */
 .flex-container {
   display: flex;
@@ -25,6 +32,15 @@
   margin-top: -20px;
 }
 /* HIER EINDIGT DE BANNER */
+
+
+
+
+
+
+
+
+
 /* BALKJE ONDER DE BANNER */
 #balkje {
   background-color: #c3fcc1;
@@ -32,6 +48,15 @@
   height: 20px;
 }
 /* BALKJE EIND */
+
+
+
+
+
+
+
+
+
 
 /* MAIN BEGIN */
 #main {
@@ -62,6 +87,14 @@
 }
 /* MAIN EIND */
 
+
+
+
+
+
+
+
+
 /* BEGIN FOOT3R */
 #footer {
   width: 100%px;
@@ -81,11 +114,18 @@
   margin-left: 20px;
 }
 /* EIND FOOT3R */
+ 
 
-/*  
-#443742 donkerpaars
-#96616b paars roze
-#bbc7a4 soort pastel groen
+
+
+
+
+
+
+
+/* #443742 donkerpaars
+#966716b paars roze
+#bbca4 soort pastel groen
 #515b3a donkergroen
 #a6d3a0 lichtgroen */
 
