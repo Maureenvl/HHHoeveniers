@@ -55,6 +55,11 @@
   border-radius: 10px;
 
 }
+
+.inhoud p{
+ color: darkgreen;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
 /* MAIN EIND */
 
 /* BEGIN FOOT3R */
